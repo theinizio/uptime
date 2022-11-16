@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 762,
-    "timeDay": 762,
-    "timeWeek": 762,
-    "timeMonth": 762,
-    "timeYear": 762,
+    "time": 834,
+    "timeDay": 834,
+    "timeWeek": 834,
+    "timeMonth": 834,
+    "timeYear": 834,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 310,
-    "timeWeek": 310,
-    "timeMonth": 310,
-    "timeYear": 310,
+    "time": 368,
+    "timeDay": 368,
+    "timeWeek": 368,
+    "timeMonth": 368,
+    "timeYear": 368,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "HT-CF",
+    "url": "https://hashtex.cf",
+    "icon": "https://icons.duckduckgo.com/ip3/hashtex.cf.ico",
+    "slug": "ht-cf",
+    "status": "down",
+    "uptime": "13.36%",
+    "uptimeDay": "13.36%",
+    "uptimeWeek": "13.36%",
+    "uptimeMonth": "13.36%",
+    "uptimeYear": "13.36%",
+    "time": 704,
+    "timeDay": 704,
+    "timeWeek": 704,
+    "timeMonth": 704,
+    "timeYear": 704,
+    "dailyMinutesDown": {
+      "2022-11-16": 0
+    }
   }
 ]
