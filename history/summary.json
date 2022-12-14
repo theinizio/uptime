@@ -22,19 +22,19 @@
     "url": "https://www.hashtex.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.hashtex.com.ico",
     "slug": "ht",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 235,
-    "timeWeek": 216,
-    "timeMonth": 258,
-    "timeYear": 258,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 257,
+    "timeDay": 232,
+    "timeWeek": 217,
+    "timeMonth": 257,
+    "timeYear": 257,
     "dailyMinutesDown": {
-      "2022-12-14": 0
+      "2022-12-14": 13
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 733,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2022-12-14": 575,
+      "2022-12-14": 588,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
