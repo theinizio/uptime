@@ -4,7 +4,7 @@
     "url": "https://www.dirtyfans.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.dirtyfans.com.ico",
     "slug": "df",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 740,
     "timeYear": 782,
     "dailyMinutesDown": {
+      "2023-05-04": 0,
       "2023-04-03": 26,
       "2022-12-23": 22
     }
@@ -55,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2023-05-04": 36,
+      "2023-05-04": 418,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
