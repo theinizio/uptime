@@ -3,12 +3,8 @@ owner: theinizio # Your GitHub organization or username, where this repository l
 repo: uptime # The name of this repository
 
 sites:
-  - name: DF
-    url: https://www.dirtyfans.com
-  - name: HT
-    url: https://www.hashtex.com
-  - name: HT-CF
-    url: https://hashtex.cf
+  - name: COL
+    url: http://col.pp.ua
   
 
 status-website:
