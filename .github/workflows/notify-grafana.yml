@@ -1,0 +1,17 @@
+name: Laravel Vapor CD
+on:
+  workflow_dispatch:
+  release:
+    types: [ published, deleted ]
+    branches:
+      - main
+jobs:
+  deploy_release:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - name: Notify grafana about the release
+        continue-on-error: true
+        run: |
+#          curl --fail -X POST https://g-ee97f3c688.grafana-workspace.us-east-1.amazonaws.com/api/annotations -H "content-type: application/json" -H "Authorization: Bearer ${{secrets.GRAFANA_API_KEY}}" -d '{"text":"Lead-Flows. Deployed ${{ steps.latest.outputs.tag_name }}", "tags": ["deploy", "production", "lead-flows"]}'
+          curl --fail -X POST http://152.67.78.113:3000/api/annotations -H "content-type: application/json" -H "Authorization: Bearer ${{secrets.GRAFANA_API_KEY}}" -d '{"text":"Lead-Flows. Deployed ${{ steps.latest.outputs.tag_name }}", "tags": ["deploy", "production", "lead-flows"]}'
