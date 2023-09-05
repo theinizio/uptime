@@ -5,6 +5,7 @@ on:
     types: [ published, deleted ]
     branches:
       - main
+      - master
 jobs:
   deploy_release:
     runs-on: ubuntu-20.04
