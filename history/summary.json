@@ -4,17 +4,17 @@
     "url": "http://col.pp.ua",
     "icon": "https://icons.duckduckgo.com/ip3/col.pp.ua.ico",
     "slug": "col",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
     "uptimeDay": "92.08%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.81%",
-    "time": 635,
-    "timeDay": 759,
-    "timeWeek": 572,
-    "timeMonth": 611,
-    "timeYear": 635,
+    "time": 638,
+    "timeDay": 705,
+    "timeWeek": 600,
+    "timeMonth": 620,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2023-10-17": 114
     }
