@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/col.pp.ua.ico",
     "slug": "col",
     "status": "down",
-    "uptime": "15.49%",
+    "uptime": "15.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "3.53%",
-    "time": 557,
-    "timeDay": 830,
-    "timeWeek": 588,
-    "timeMonth": 518,
-    "timeYear": 514,
+    "time": 558,
+    "timeDay": 662,
+    "timeWeek": 593,
+    "timeMonth": 521,
+    "timeYear": 516,
     "dailyMinutesDown": {
-      "2024-12-01": 58,
+      "2024-12-02": 52,
+      "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -367,8 +368,7 @@
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
-      "2023-12-04": 1440,
-      "2023-12-03": 1440
+      "2023-12-04": 1440
     }
   }
 ]
